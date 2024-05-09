@@ -3,7 +3,7 @@
 Summary:	Toolkit for the resolution of PDE based on fenics with Octave
 Name:		octave-%{octpkg}
 Version:	0.0.5
-Release:	1
+Release:	2
 Source0:	https://downloads.sourceforge.net/octave/%{octpkg}-%{version}.tar.gz
 # (debian)
 Patch0:		octave-value-cast.patch
